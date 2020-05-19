@@ -2,7 +2,9 @@
 
 React Native Fade Carousel is a RN package to allow transitions between images using a fade in/out effect.
 
-![Preview](https://i.ibb.co/jrXSr9j/Fade-Carousel480.gif)
+<p align="center">
+  <img src="https://i.ibb.co/XCRqCfG/Fade-Carousel480.gif" alt="Preview" border="0" /></a>
+</p>
 
 ## Installation
 
